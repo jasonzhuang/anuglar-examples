@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>My AngularJS App</title>
+</head>
+<body>
+  <div ng-app="myApp">
+      <div ng-controller='FilterCtrl'>
+        <input type="text" ng-model="message">
+        {{message | reverse:true}}<!--true is parameter-->
+      </div>
+  </div>
+  <script src="../../lib/angular/angular.js"></script>
+  <script src="filter.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<html ng-app>
+<head>
+  <script src="../lib/angular/angular.js"></script>
+  <script>
+      var MyController = function($scope, $http) {
+        $http.get('https://api.github.com/repos/angular/angular.js/commits')
+          .success(function(commits) {
+            $scope.commits = commits;
+          })
+      }
+      
+      console.log(angular.injector().annotate(MyController));
+  </script>
+  <script src="di.js"></script>
+</head>
+
+<body ng-controller="MyController">
+  <h1>Recent commits to AngularJS</h1>
+  <ul>
+    <li ng-repeat="commit in commits">
+      {{ commit.commit.committer.date | date }}
+      <a ng-href="https://github.com/angular/angular.js/commit/{{commit.sha}}">{{ commit.sha }}</a>
+      {{ commit.commit.message }}
+    </li>
+  </ul>
+</body>
+</html>

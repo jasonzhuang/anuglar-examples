@@ -5,17 +5,9 @@
         <title>My AngularJS App</title>
     </head>
     <body>
-        <div ng-app="">
-            <input type="text" ng-model="message">
-            <h1>{{ message }}</h1>
-            <div ng-controller="FirstCtrl">
-                <input type="text" ng-model="message">
-                <h1>{{ message }}</h1>
-            </div>
-            <div ng-controller="SecondCtrl">
-                <input type="text" ng-model="message">
-                <h1>{{ message }}</h1>
-            </div>
+        <div ng-app="app" ng-controller="Ctrl">
+            <button ng-click="">Click!</button>
+            <input ng-model="whatever" />
         </div>
         <script src="../../lib/angular/angular.js"></script>
         <script src="scope.js"></script>

@@ -14,5 +14,33 @@ var MyController2 = ['$http', '$scope22', function($scope, $http) {
     })
 }]
 
-
 console.log(angular.injector().annotate(MyController2));
+
+
+/**
+ * following is the same way
+ * the second way can be more intuitive since the $scope is still injected
+ */
+//way1
+app.controller("AppCtrl", function ($scope) {
+    $scope.sayHi = function () {
+        alert("hi");
+    };
+});
+
+//way2:
+var controllers = {};
+controllers.AppCtrl = function ($scope) {
+    $scope.sayHi = function () {
+        alert("hi");
+    };
+};
+app.controller(controllers);
+
+var directives = {};
+directives.panel = function () {
+    return {
+        restrict: "E"
+    };
+};
+app.directive(directives);

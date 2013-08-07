@@ -5,7 +5,10 @@
   <title>My AngularJS App</title>
 </head>
 <body>
-  <div ng-app="myApp">
+  <div ng-app="app" ng-controller="MyCtrl">
+      <h3>{{serviceOutput}}</h3>
+      <h3>{{factoryOutput}}</h3>
+      <h3>{{providerOutput}}</h3>
   </div>
   <script src="../../lib/angular/angular.js"></script>
   <script src="inject.js"></script>

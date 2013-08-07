@@ -2,9 +2,7 @@ var app = angular.module( 'app', [] );
 
 //A provider is an object with a $get() method. The injector calls the $get method to create a new instance of a service.
 var MyFunc = function() {
-
     this.name = "default name";
-
     this.$get = function() {
         this.name = "new name"
         return "Hello from MyFunc.$get(). this.name = " + this.name;
@@ -28,8 +26,6 @@ function MyCtrl( $scope, myService, myFactory, myProv ) {
     $scope.providerOutput = "myProvider = " + myProv;
 }
 
-var app = angular.module('myDI', []);
-
 //way 1:
 app.config(function($provide){
     $provide.provider('greeting', function(){
@@ -39,7 +35,9 @@ app.config(function($provide){
             };
         };
     });
-});/**
+});
+
+/**
 //way2(same as way1):
 app.provider('greeting', function(){
     this.$get = function(){
@@ -67,21 +65,55 @@ app.config(function($provide){
 });
 **/
 
-function MainController($scope, greeting) {
-  $scope.onClick = function(){
-        greeting('Angular');
-  };      
-}/**
-app.controller('MainController', function($scope, greeting){
-    $scope.onClick = function(){
-        greeting('Angular');
+//refer angular.injector(modules). http://docs.angularjs.org/api/angular.injector
+var injector = angular.injector(['app', 'ng']);//Add this line, otherwise can't invoke the service
+var greeting = injector.get('greeting');
+greeting('Ford Prefect');
+//another way:
+angular.injector(['app']).invoke(function(greeting){
+   greeting('Ford Prefect');
+})
+
+var divide = function(numerator, denominator) {
+    return numerator / denominator;
+}
+
+var ret = angular.injector().annotate(divide);
+angular.injector().annotate(divide) == ["numerator", "denominator"];
+
+var MyController2 = ['$http', '$scope22', function($scope, $http) {
+    $http.get('https://api.github.com/repos/angular/angular.js/commits')
+        .success(function(commits) {
+            $scope.commits = commits;
+        })
+}]
+console.log(angular.injector().annotate(MyController2));
+
+/**
+ * following is the same way
+ * the second way can be more intuitive since the $scope is still injected
+ */
+//way1
+app.controller("AppCtrl", function ($scope) {
+    $scope.sayHi = function () {
+        alert("hi");
     };
 });
-**/
-//Add this line, otherwise can't invoke the service
-//refer angular.injector(modules). http://docs.angularjs.org/api/angular.injectorvar injector = angular.injector(['myDI', 'ng']);
-var greeting = injector.get('greeting');
-console.log(greeting);
-greeting('Ford Prefect');
-
+
+//way2:
+var controllers = {};
+controllers.AppCtrl = function ($scope) {
+    $scope.sayHi = function () {
+        alert("hi");
+    };
+};
+app.controller(controllers);
+
+var directives = {};
+directives.panel = function () {
+    return {
+        restrict: "E"
+    };
+};
+app.directive(directives);
 

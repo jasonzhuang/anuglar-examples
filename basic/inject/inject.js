@@ -66,7 +66,7 @@ app.config(function($provide){
 **/
 
 //refer angular.injector(modules). http://docs.angularjs.org/api/angular.injector
-var injector = angular.injector(['app', 'ng']);//Add this line, otherwise can't invoke the service
+var injector = angular.injector(['app']);//Add this line, otherwise can't invoke the service
 var greeting = injector.get('greeting');
 greeting('Ford Prefect');
 //another way:

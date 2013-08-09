@@ -23,15 +23,22 @@ app.config(function() {
         }, 2000);
     });
 
-app.controller('MyCtrl', function($scope){
+app.controller('MyCtrl', function($http, $scope){
    console.log($scope);
+    console.log($http);
 });
 
-app.directive('myDirective', function($http){
+/**
+ * //Note: write this way, the argument order is important
+ * app.controller('MyCtrl', ['$scope', function($scope){
+ *   console.log($scope);
+ * }
+ * ])
+ */
+app.directive('myDirective', function(){
     return {
         link: function(scope, element){  // in the argument, the order is important. The first argument is always scope, no matter what you name it, same as the other argument
             console.log(scope);
-            console.log($http);
         }
     }
 })

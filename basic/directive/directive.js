@@ -11,6 +11,19 @@ myApp.controller('Tweet',function($scope){
     }
 })
 
+/**
+ * Transclusion Basics
+ * With transclude enabled, anything that exists inside the panel element in
+ * the view will be appended to the contents of whichever element in the template has the ng-transclude attribute.
+ */
+myApp.directive('myPanel', function(){
+    return {
+        restrict:'E',
+        transclude:true,
+        template: '<div class="panel" ng-transclude>This is panel component</div>'
+    }
+})
+
 myApp.directive('enter', function () {
     return function (scope, element, attrs) {
         element.bind("mouseenter", function () {

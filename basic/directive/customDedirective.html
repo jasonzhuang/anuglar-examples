@@ -4,11 +4,38 @@
     <meta charset="utf-8">
     <title></title>
     <link rel="stylesheet" href="../../css/foundation.min.css">
+    <style type="text/css">
+        .rating{
+            color: #a9a9a9;
+            margin: 0;
+            padding: 0;
+        }
+
+        ul.rating {
+            display: inline-block;
+        }
+
+        .rating li {
+            list-style-type: none;
+            display: inline-block;
+            padding: 1px;
+            text-align: center;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .rating .filled {
+            color: #21568b;
+        }
+    </style>
 </head>
-<body>
-<div ng-app="myApp">
-   <div rating></div>
-</div>
+<body ng-app="app" ng-controller="RatingCtrl">
+Rating is {{rating}} <br/>
+Clickable Rating <br/>
+<div rating rating-value="rating" max="10" on-rating-selected="saveRatingToServer(rating)"></div>
+<br/>
+Readonly rating <br/>
+<div rating rating-value="rating" max="10" readonly="true"></div>
 <script src="../../lib/angular/angular.js"></script>
 <script src="customDirective.js"></script>
 </body>

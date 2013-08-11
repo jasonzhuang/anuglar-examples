@@ -7,9 +7,9 @@
 </head>
 <body>
 <div ng-app="myApp">
-    <div  ng-controller="Tweet">
+    <!--<div  ng-controller="Tweet">
         <div enter="loadMore()">Roll over to load more tweets</div>
-    </div>
+    </div>-->
 
     <!--<superhero flight speed strength>Superman</superhero>
     <superhero strength>Hulk</superhero>
@@ -19,19 +19,16 @@
         <!--<clock timezone='PST'></clock>-->
     <!--</panel>-->
 
-    <country>
+    <!--<country>
         <state>
             <city></city>
         </state>
-    </country>
-    <div id="aaa"></div>
+    </country>-->
+    <my-panel>
+        <div class="button">Click me!</div>
+    </my-panel>
 </div>
 <script src="../../lib/angular/angular.js"></script>
 <script src="directive.js"></script>
-<script>
-    var date = new Date();
-    var ele = document.createTextNode(date.toString());
-    document.getElementById('aaa').appendChild(ele);
-</script>
 </body>
 </html>

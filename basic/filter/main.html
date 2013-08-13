@@ -9,6 +9,11 @@
       <div ng-controller='FilterCtrl'>
         <input type="text" ng-model="message">
         {{message | reverse:true}}<!--true is parameter-->
+         <ul>
+             <li ng-repeat="i in [0,1,2,3,4,5] | odd">
+                 num : {{i}}
+             </li>
+         </ul>
       </div>
   </div>
   <script src="../../lib/angular/angular.js"></script>

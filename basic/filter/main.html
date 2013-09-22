@@ -6,14 +6,20 @@
 </head>
 <body>
   <div ng-app="myApp">
-      <div ng-controller='FilterCtrl'>
+      <!--<div ng-controller='FilterCtrl'>
         <input type="text" ng-model="message">
-        {{message | reverse:true}}<!--true is parameter-->
+        {{message | reverse:true}}&lt;!&ndash;true is parameter&ndash;&gt;
          <ul>
              <li ng-repeat="i in [0,1,2,3,4,5] | odd">
                  num : {{i}}
              </li>
          </ul>
+      </div>-->
+      <div ng-controller="FilterCtrl">
+          <label>Search:</label><input type="text" ng-model="searchText">
+          <ul>
+              <li ng-repeat="film in films | filmFilter:searchText" style="display:block">{{film}}</li>
+          </ul>
       </div>
   </div>
   <script src="../../lib/angular/angular.js"></script>

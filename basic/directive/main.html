@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../../css/foundation.min.css">
 </head>
 <body>
-<div ng-app="myApp">
+<div ng-app="timedown" ng-controller='TimeCtrl'>
     <!--<div  ng-controller="Tweet">
         <div enter="loadMore()">Roll over to load more tweets</div>
     </div>-->
@@ -24,11 +24,13 @@
             <city></city>
         </state>
     </country>-->
-    <my-panel>
+    <!--<my-panel>
         <div class="button">Click me!</div>
-    </my-panel>
+    </my-panel>-->
+    <timedown end-time="endTime" interval="1000">还剩: {{days}} 天: {{hours}}小时: {{minutes}}分: {{seconds}}秒.</timedown>
 </div>
 <script src="../../lib/angular/angular.js"></script>
 <script src="directive.js"></script>
+<script src="timedown.js"></script>
 </body>
 </html>

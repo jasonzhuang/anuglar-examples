@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/exploreDI/di.js" afterPath="$PROJECT_DIR$/basic/exploreDI/di.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/scope/main.html" afterPath="$PROJECT_DIR$/basic/scope/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/scope/scope.js" afterPath="$PROJECT_DIR$/basic/scope/scope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/directive/main.html" afterPath="$PROJECT_DIR$/basic/directive/main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-demos.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375788658023" ignored="false" />
-    <file path="/main.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375514480773" ignored="false" />
+    <file path="/Dummy.txt" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1381816917937" ignored="false" />
+    <file path="/main.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1381821234615" ignored="false" />
     <file path="/directive.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375501336570" ignored="false" />
     <file path="/directiveScope.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375520702407" ignored="false" />
     <file path="/directiveScope.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375520562121" ignored="false" />
@@ -25,6 +23,61 @@
     <file path="/routing.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375780756549" ignored="false" />
     <file path="/app.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375771177651" ignored="false" />
     <file path="/injection.txt" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1375787918003" ignored="false" />
+    <file path="$PROJECT_DIR$/../testable-eshell/bower.json" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378123487042" ignored="false" />
+    <file path="$PROJECT_DIR$/../testable-eshell/app/scripts/app.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378123860036" ignored="false" />
+    <file path="/app.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406046812" ignored="false" />
+    <file path="$PROJECT_DIR$/../testable-eshell/app/scripts/directives/parseBracket.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378124225219" ignored="false" />
+    <file path="/test.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1381817049625" ignored="false" />
+    <file path="/test.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1381817202835" ignored="false" />
+    <file path="$PROJECT_DIR$/../testable-eshell/test/spec/services/eywa.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378185059988" ignored="false" />
+    <file path="$PROJECT_DIR$/../testable-eshell/app/scripts/services/checker.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378186066420" ignored="false" />
+    <file path="/Scroll.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378293248143" ignored="false" />
+    <file path="/scroll.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378295393989" ignored="false" />
+    <file path="/routeTutorial.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378294351681" ignored="false" />
+    <file path="/directiveTutorial.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378294312946" ignored="false" />
+    <file path="/scroll.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378295597244" ignored="false" />
+    <file path="/ScrollCtrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378299150339" ignored="false" />
+    <file path="/scroll-test.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378298346611" ignored="false" />
+    <file path="/index.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1380345696503" ignored="false" />
+    <file path="/ScrollController.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378298512952" ignored="false" />
+    <file path="/fragment.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1380353515759" ignored="false" />
+    <file path="/User.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378364291884" ignored="false" />
+    <file path="/Admin.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378459258442" ignored="false" />
+    <file path="$PROJECT_DIR$/../bootstrap-examples/index.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378456981559" ignored="false" />
+    <file path="/a.dummy" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379379011731" ignored="false" />
+    <file path="/cart.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1378460032466" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/karma.conf.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379294064011" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/Gruntfile.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379294420569" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/index.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379466223666" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/bower.json" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379295265265" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/test/spec/controllers/main.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379295084192" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/controllers/main.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379407764413" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/app.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406059210" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/views/main.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379407305618" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/services/dianPingUrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379380819684" ignored="false" />
+    <file path="/dianPingUrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379380680787" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/services/serverUrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379380810443" ignored="false" />
+    <file path="/serverUrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379380789725" ignored="false" />
+    <file path="/main.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1380339404482" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/services/dianPingURL.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379387846501" ignored="false" />
+    <file path="/dianPingURL.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379387734214" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/test.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379384349741" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/views/deals.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379469337383" ignored="false" />
+    <file path="/deals.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379469142661" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/views/coupons.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406092419" ignored="false" />
+    <file path="/coupons.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406092419" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/controllers/DealCtrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406123815" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/controllers/couponCtrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406222227" ignored="false" />
+    <file path="/couponCtrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379406209325" ignored="false" />
+    <file path="/dealCtrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379419650710" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/controllers/dealCtrl.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379835587105" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/styles/main.css" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379469459024" ignored="false" />
+    <file path="/main.css" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379469234808" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/filters/dealOver.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379466171728" ignored="false" />
+    <file path="/dealOver.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379469499854" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-grunt-example/app/scripts/directives/dealOver.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379469817953" ignored="false" />
+    <file path="$PROJECT_DIR$/../bootstrap-examples/grid/portfolio.html" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1379840141103" ignored="false" />
+    <file path="/timedown.js" changelist="2b56d9a4-51b4-4fe9-8622-efe0a4c83ce3" time="1381821377416" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +97,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/scope/main.html">
+      <file leaf-file-name="timedown.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/directive/timedown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="117" selection-start="402" selection-end="402" vertical-scroll-proportion="-9.5">
+            <state line="8" column="23" selection-start="254" selection-end="254" vertical-scroll-proportion="0.14631337">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scope.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/scope/scope.js">
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/directive/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="53" selection-start="603" selection-end="603" vertical-scroll-proportion="0.6152381">
+            <state line="15" column="76" selection-start="469" selection-end="469" vertical-scroll-proportion="-10.178572">
               <folding />
             </state>
           </provider>
@@ -78,33 +131,71 @@
       <MyDateState />
     </option>
   </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="$XSLT" />
+      <filtered-out-file-type name="Apple JS" />
+      <filtered-out-file-type name="Asp" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Dart" />
+      <filtered-out-file-type name="ECMA Script Level 4" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="GWT JavaScript" />
+      <filtered-out-file-type name="HAML" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="Jade" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="JavaScript 1.5" />
+      <filtered-out-file-type name="JavaScript 1.6" />
+      <filtered-out-file-type name="JavaScript 1.7" />
+      <filtered-out-file-type name="JavaScript 1.8" />
+      <filtered-out-file-type name="JsInJade" />
+      <filtered-out-file-type name="LESS" />
+      <filtered-out-file-type name="RELAX-NG" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="SASS" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="TEXT" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="XPath" />
+      <filtered-out-file-type name="XPath2" />
+      <filtered-out-file-type name="yaml" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/foundation.min.css" />
-        <option value="$PROJECT_DIR$/basic/directive/main.html" />
-        <option value="$PROJECT_DIR$/basic/directive/directive.js" />
-        <option value="$PROJECT_DIR$/basic/directive/directiveScope.html" />
-        <option value="$PROJECT_DIR$/basic/directive/directiveScope.js" />
-        <option value="$PROJECT_DIR$/basic/exploreDI/di.js" />
-        <option value="/HTML Fragment (view.js:244).html" />
-        <option value="/HTML Fragment (view.js:575).html" />
-        <option value="$PROJECT_DIR$/basic/view/view.html" />
-        <option value="$PROJECT_DIR$/basic/view/view.js" />
-        <option value="$PROJECT_DIR$/basic/routing/app.html" />
-        <option value="$PROJECT_DIR$/basic/routing/view/promise.html" />
-        <option value="$PROJECT_DIR$/basic/routing/routing.html" />
-        <option value="$PROJECT_DIR$/basic/routing/routing.js" />
+        <option value="$PROJECT_DIR$/basic/test/controllers/User.js" />
+        <option value="$PROJECT_DIR$/foodme/app/index.html" />
+        <option value="$PROJECT_DIR$/basic/test/controllers/Admin.js" />
+        <option value="$PROJECT_DIR$/foodme/app/js/services/cart.js" />
         <option value="$PROJECT_DIR$/basic/scope/main.html" />
-        <option value="$PROJECT_DIR$/basic/scope/scope.js" />
+        <option value="$PROJECT_DIR$/foodme/app/js/app.js" />
+        <option value="$PROJECT_DIR$/foodme/app/js/directives/fmRating.js" />
+        <option value="$PROJECT_DIR$/components/overHighlight/index.html" />
+        <option value="$PROJECT_DIR$/basic/test/test.js" />
+        <option value="$PROJECT_DIR$/basic/test/test.html" />
+        <option value="$PROJECT_DIR$/angular-ui/index.html" />
+        <option value="$PROJECT_DIR$/angular-ui/main.js" />
+        <option value="$PROJECT_DIR$/test/test.js" />
+        <option value="$PROJECT_DIR$/test/test.html" />
+        <option value="$PROJECT_DIR$/basic/directive/main.html" />
+        <option value="$PROJECT_DIR$/basic/directive/timedown.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="209" />
-    <option name="y" value="37" />
-    <option name="width" value="1507" />
-    <option name="height" value="984" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -127,9 +218,9 @@
       <showLibraryContents ProjectPane="true" />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
@@ -151,6 +242,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -158,30 +295,27 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.smartKeys" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.general" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beginner-example" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beginner-example" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\js_workspace\angular-demos\lib" />
+      <recent name="D:\js_workspace\angular-demos\css" />
       <recent name="D:\js_workspace\angular-demos\basic" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\js_workspace\angular-demos" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.main.html">
-    <configuration default="false" name="main.html" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/basic/scope/main.html" />
-      </JSDebuggerConfigurationSettings>
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.test.html">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -193,8 +327,7 @@
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" editBeforeRun="true" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="chrome" />
-        <option name="fileUrl" value="http://localhost:63342/angular-demos/basic/routing/routing.html" />
-        <mapping url="http://localhost:63342/angular-demos/basic/routing/routing.html" local-file="$PROJECT_DIR$/basic/routing/routing.html" />
+        <option name="fileUrl" value="" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
@@ -205,23 +338,21 @@
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <configuration default="false" name="routing" type="JavascriptDebugSession" factoryName="Remote" editBeforeRun="true" singleton="true">
-      <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" value="chrome" />
-        <option name="fileUrl" value="http://localhost:63342/angular-demos/basic/routing/routing.html#/" />
-        <mapping url="http://localhost:63342/angular-demos/basic/routing" local-file="$PROJECT_DIR$/basic/routing/routing.html" />
-      </JSRemoteDebuggerConfigurationSettings>
+    <configuration default="false" name="test.html" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/test/test.html" />
+      </JSDebuggerConfigurationSettings>
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.routing" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +380,11 @@
       <created>1375441777142</created>
       <updated>1375441777142</updated>
     </task>
+    <task id="LOCAL-00001" summary="remove pairgame">
+      <created>1379836039897</created>
+      <updated>1379836039897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -272,26 +408,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="209" y="37" width="1507" height="984" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44927537" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33110368" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986821" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17574932" sideWeight="0.6690909" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3309091" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26992288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3303342" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24980666" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13125989" sideWeight="0.7222964" order="0" side_tool="false" content_ui="combo" x="1164" y="203" width="260" height="778" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28337875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26092544" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969698" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39974293" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -336,7 +473,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove pairgame" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -350,108 +487,113 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="remove pairgame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="6" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/app.css">
+    <entry file="file://$PROJECT_DIR$/angular-ui/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" />
+        <state line="16" column="48" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/foundation.min.css">
+    <entry file="file://$PROJECT_DIR$/angular-ui/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="102392" selection-start="102392" selection-end="102392" vertical-scroll-proportion="0.0" />
+        <state line="15" column="58" selection-start="435" selection-end="435" vertical-scroll-proportion="0.39419088" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/directive/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0785124" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/directive/directiveScope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="86" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.59101385" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/exploreDI/di.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="25" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.8467742" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/exploreDI/index.html">
+    <entry file="file://$PROJECT_DIR$/todo/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/directive/directiveScope.html">
+    <entry file="file://$PROJECT_DIR$/foodme/app/js/services/customer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="77" selection-end="140" vertical-scroll-proportion="0.11309524" />
+        <state line="16" column="17" selection-start="444" selection-end="452" vertical-scroll-proportion="0.35023043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodme/app/js/services/localStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodme/app/js/services/Restaurant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="128" selection-end="128" vertical-scroll-proportion="0.08755761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodme/app/js/services/alert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="17" selection-start="390" selection-end="399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/directive/directiveScope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="53" selection-start="364" selection-end="364" vertical-scroll-proportion="-12.892858">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/directive/directive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="88" selection-start="2833" selection-end="2833" vertical-scroll-proportion="0.3229885" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/view/view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="-9.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/view/view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="274" selection-end="274" vertical-scroll-proportion="0.19655173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/routing/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="26" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/routing/view/promise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/routing/routing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="40" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/routing/routing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="49" selection-start="1530" selection-end="1530" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#123#0" expanded="false" />
+            <marker date="1378121863717" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/scope/main.html">
+    <entry file="file://$PROJECT_DIR$/basic/directive/directiveScope.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="117" selection-start="402" selection-end="402" vertical-scroll-proportion="-9.5">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/scope/scope.js">
+    <entry file="file://$PROJECT_DIR$/basic/directive/customDirective.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="53" selection-start="603" selection-end="603" vertical-scroll-proportion="0.6152381">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/directive/customDedirective.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.8928572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/directive/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="76" selection-start="469" selection-end="469" vertical-scroll-proportion="-10.178572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/directive/timedown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="254" selection-end="254" vertical-scroll-proportion="0.14631337">
           <folding />
         </state>
       </provider>

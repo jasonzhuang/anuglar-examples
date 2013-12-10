@@ -1,0 +1,4 @@
+<div data-ng-controller="ImportDataController">
+    https://<input ng-model="firebaseid" placeholder="<<firebase identifier>>">.firebaseio.com<br />
+    <button ng-click="import()">Import Players to {{'https://'+firebaseid+'.firebaseio.com/players'}}</button>
+</div>

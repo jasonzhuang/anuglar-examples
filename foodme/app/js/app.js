@@ -29,10 +29,5 @@ foodMeApp.config(function($routeProvider) {
       }).
       when('/help', {
         templateUrl: 'views/help.html'
-      })
-      .when('/scrollTest/:part',{
-          controller:'ScrollController',
-          templateUrl:'views/scroll-test.html'
       });
-
 });
